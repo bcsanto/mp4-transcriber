@@ -11,6 +11,6 @@ A local, python-based app that transcribes audio from .mp4 video files and conve
 - Python 3.8+
 - ffmpeg(https://ffmpeg.org/), make sure this is installed in your system.
 - pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121 (If you choose to use GPU Acceleration, install the CUDA-enabled pytorch)
+- pip install -r requirements.txt
 
-There are some dependencies, check out requirements.txt, use pip install -r requirements.txt in a command prompt on your machine after downloading/cloning the mp4-transcriber.
-
+Make sure you run the commands in a command prompt on your machine after downloading/cloning the mp4-transcriber.
